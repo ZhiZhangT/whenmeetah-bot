@@ -21,12 +21,12 @@ Being the first time building a Telegram bot, there was some learning curve to u
 
 ## Accomplishments that we're proud of
 @whenmeetah_bot
-Built a completed date-picker for an event.
-Built a completed ETA-calculator for users.
+* Built a completed date-picker for an event.
+* Built a completed ETA-calculator for users.
 
 ## What we learned
-Telegram Bot API
-Google Maps API Integration
+* Telegram Bot API
+* Google Maps API Integration
 
 
 ## What's next for whenmeetah?
