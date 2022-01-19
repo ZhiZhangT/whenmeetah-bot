@@ -241,7 +241,7 @@ def handle_callback(call):
 
             bot.send_message(
                 chat_id = chat_id,
-                text = f""
+                text = avail_text
             )
 
         else:
